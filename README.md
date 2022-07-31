@@ -1,7 +1,7 @@
 ### Hello There 👋
 
 
-Rendering Engineer and Indie Game Developer based in France but made in Russia!
+Rendering Engineer and Indie Game Developer based in France!
 
 Master program in Ecole Polytechnique(Paris) in Advanced Visual Programming and AI.
 
