@@ -17,6 +17,6 @@ In free time working with friends on games! Last One [(Playable in browser)](htt
 
 ### Always open for Rendering Engineer positions with Remote or France office.
 How ro reach me: 
-- [Telegram](t.me/RoundedGlint585)
+- [Telegram](https://www.t.me/RoundedGlint585)
 - [LinkedIn](https://www.linkedin.com/in/daniil-smolyakov-ab7318187/)
 - danonofficial@gmail.com
