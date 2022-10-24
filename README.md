@@ -11,7 +11,7 @@ Started as engine programmer in MyTona, and was working on Tasty Makeover match3
 
 Then shifted to rendering in Saber Interactive for new Space Marine title, right now working in Ubisoft as my final internship.
 
-In free time working with friends on games! Last One [(Playable in browser)](https://karasikrus.itch.io/enchantedice)
+In free time working with friends on games! Last one from mini Game Jam[(Playable in browser)](https://karasikrus.itch.io/shotgun-ghost-rider)
 
 
 
