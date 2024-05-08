@@ -12,8 +12,6 @@ Started as engine programmer in MyTona, and was working on Tasty Makeover match3
 In free time working with friends on games! Last one from mini Game Jam[(Playable in browser)](https://karasikrus.itch.io/shotgun-ghost-rider)
 
 
-
-### Always open for Rendering Engineer positions with Remote or France office.
 How ro reach me: 
 - [Telegram](https://www.t.me/RoundedGlint585)
 - [LinkedIn](https://www.linkedin.com/in/daniil-smolyakov-ab7318187/)
